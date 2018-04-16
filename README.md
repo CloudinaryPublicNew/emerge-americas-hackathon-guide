@@ -28,5 +28,5 @@ Miami, FL 33132
 
 ### REGISTER
 
-\[Register for the hackathon\]\([https://www.eventbrite.com/e/emerge-americas-hackathon-2018-in-partnership-with-wyncode-tickets-42537305225](https://www.eventbrite.com/e/emerge-americas-hackathon-2018-in-partnership-with-wyncode-tickets-42537305225)\)
+[Register for the hackathon](https://www.eventbrite.com/e/emerge-americas-hackathon-2018-in-partnership-with-wyncode-tickets-42537305225)
 
