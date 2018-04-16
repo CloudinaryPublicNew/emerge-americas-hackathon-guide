@@ -2,9 +2,22 @@
 
 {% tabs %}
 {% tab title="Cyclist Safety Analysis" %}
-Help improve pedistrian and cyclist safety via image analysis. 
 
-Analyzing cyclist safety, how well cars keep off the bike lane \(image/video analysis\)
+
+![Image as the Input:  Improve pedestrian and cyclist safety](.gitbook/assets/bikesafety.jpg)
+
+Help improve pedestrian and cyclist safety via image analysis. 
+
+The primary objectives of a Bicycle Safety Assessment \(BSA\) are:
+
+* To improve bicycle safety in a city or county
+* To create safe, comfortable, accessible, welcoming environments for cyclists
+* To enhance the bikeability and economic vitality of local districts
+
+Use advance Image  and video analysis to improve cyclist safety.  
+
+* Determine how well cars keep clear of bike lanes
+* Determine bike lane usage and capacity
 {% endtab %}
 
 {% tab title="APIs and Resources" %}
@@ -34,6 +47,10 @@ Analyzing cyclist safety, how well cars keep off the bike lane \(image/video ana
 {% endtab %}
 
 {% tab title="Research" %}
+**Understanding Bicycle Safety**
+
+{% embed data="{\"url\":\"https://en.wikipedia.org/wiki/Bicycle\_safety\",\"type\":\"link\",\"title\":\"Bicycle safety\",\"description\":\"Bicycle safety is the use of road traffic safety practices to reduce risk associated with cycling. Risk can be defined as the number of incidents occurring for a given amount of cycling. In many countries both the number of incidents and the amount of cycling are not well known. Non-fatal accidents often go unreported and bicycle use is only occasionally monitored. Some of this subject matter is hotly debated: for example, the discussions as to whether bicycle helmets or cyclepaths really improve safety. The merits of obeying the rules of the road including the use of bicycle lighting at night are less controversial.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://en.wikipedia.org/static/apple-touch/wikipedia.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bike\_slalom\_FHP\_Prospect\_jeh.JPG/1200px-Bike\_slalom\_FHP\_Prospect\_jeh.JPG\",\"width\":1200,\"height\":1082,\"aspectRatio\":0.9016666666666666}}" %}
+
 **Safety Assessments**
 
 {% embed data="{\"url\":\"http://www.techtransfer.berkeley.edu/services/bicycle-safety-assessments\",\"type\":\"link\",\"title\":\"Bicycle Safety Assessments \| TechTransfer\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.techtransfer.berkeley.edu/sites/default/files/favicon.ico\",\"aspectRatio\":0}}" %}
