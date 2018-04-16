@@ -6,8 +6,6 @@ description: 'Thought Starter: Bicyclist Safety Analysis'
 
 {% tabs %}
 {% tab title="Cyclist Safety Analysis" %}
-
-
 ![Image as the Input:  Improve pedestrian and cyclist safety](.gitbook/assets/bikesafety.jpg)
 
 Help improve pedestrian and cyclist safety via image analysis. 
