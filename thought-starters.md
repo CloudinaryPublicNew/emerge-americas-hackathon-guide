@@ -34,6 +34,12 @@ Create a Climate-aware shopping assistant - upload fashion pieces identified by 
 
 {% embed data="{\"url\":\"https://www.wunderground.com/weather/api\",\"type\":\"link\",\"title\":\"API \| Weather Underground\",\"description\":\"Weather Underground provides local & long range Weather Forecast, weather reports, maps & tropical weather conditions for locations worldwide.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.wunderground.com/favicon.ico\",\"aspectRatio\":0}}" %}
 {% endtab %}
+
+{% tab title="Research" %}
+Impact of the Fashion Industry on Climate-change.
+
+{% embed data="{\"url\":\"https://fashionista.com/2017/09/fashion-industry-greenhouse-gas-climate-change-sustainability\",\"type\":\"link\",\"title\":\"The Fashion Industry Emits as Much Greenhouse Gas as All of Russia - Fashionista\",\"description\":\"Designers, CEOs and a data scientist weigh in on what it will take to change that.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://fashionista.com/site/images/apple-touch-icon-114x114-precomposed.png?v=2018-04-16-173624-73da4e6-009360\",\"width\":114,\"height\":114,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://fashionista.com/.image/t\_share/MTUwMTYyOTc0NDc1MDM2MTYz/climate-change-panel-ecosessions.jpg\",\"width\":1200,\"height\":798,\"aspectRatio\":0.665}}" %}
+{% endtab %}
 {% endtabs %}
 
 
