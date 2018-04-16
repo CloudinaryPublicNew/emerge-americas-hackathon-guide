@@ -9,7 +9,7 @@
 Create a Climate-aware shopping assistant - upload fashion pieces identified by gender and age range, get these auto tagged. Use weather report to generate outfit suggestions. If available, use image analysis APIs to further tag the user in order to refine outfit selections.
 {% endtab %}
 
-{% tab title="Resources" %}
+{% tab title="APIs and Resources" %}
 ### Cloudinary APIS
 
 **Upload Widget:**
