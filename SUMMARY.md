@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Emerge Americas Hackathon Guide](README.md)
-* [Thought Starters](thought-starters.md)
+* [Climate-aware Shopping Assistant](thought-starters.md)
 

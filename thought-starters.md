@@ -1,4 +1,4 @@
-# Thought Starters
+# Climate-aware Shopping Assistant
 
 {% tabs %}
 {% tab title="Climate-aware Shopping Assistant" %}
