@@ -29,6 +29,14 @@ Analyzing cyclist safety, how well cars keep off the bike lane \(image/video ana
 ## Other APIs
 
 **IBM Watson Visual Recognition**
+
+{% embed data="{\"url\":\"https://www.ibm.com/watson/services/visual-recognition/\",\"type\":\"link\",\"title\":\"Watson Visual Recognition\",\"description\":\"Tag, classify and search visual content using machine learning.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.ibm.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% endtab %}
+
+{% tab title="Research" %}
+**Safety Assessments**
+
+{% embed data="{\"url\":\"http://www.techtransfer.berkeley.edu/services/bicycle-safety-assessments\",\"type\":\"link\",\"title\":\"Bicycle Safety Assessments \| TechTransfer\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.techtransfer.berkeley.edu/sites/default/files/favicon.ico\",\"aspectRatio\":0}}" %}
 {% endtab %}
 {% endtabs %}
 
