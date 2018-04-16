@@ -43,6 +43,12 @@ Build an app that can capture images, location data and the meta of graffiti. Us
 {% endtab %}
 
 {% tab title="Research" %}
+
+
+![Jose De Diego Middle School, murals by \(from left\) Ahol Sniffs Glue, Santiago Rubino and Typoe \(far right\). David Cabrera for Rolling Stone](.gitbook/assets/wynwood-2-0ceb102d-96d1-4832-9930-15e6ea65f907.jpg)
+
+
+
 **Understanding the difference between Street Art and Graffiti **
 
 > Graffiti vandalism is a form of expression that includes symbols, nicknames, or pictures painted on walls, fences or signs. The graffiti is drawn without the permission of the property owner and is used by the vandal as a means of gaining recognition.
