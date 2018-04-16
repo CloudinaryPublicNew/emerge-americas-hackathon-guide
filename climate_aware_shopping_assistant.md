@@ -36,6 +36,12 @@ Create a Climate-aware shopping assistant - upload fashion pieces identified by 
 {% endtab %}
 
 {% tab title="Research" %}
+**Seasonal Clothing**
+
+{% embed data="{\"url\":\"https://beauty.onehowto.com/article/what-to-wear-in-india-during-monsoon-season-3646.html\",\"type\":\"link\",\"title\":\"What to Wear in India during Monsoon Season\",\"description\":\"What to Wear in India during Monsoon Season. In most part of India, monsoon typically lasts from June to September.The monsoon has many benefits and brings out the green landscape of India and the smell of the lovely wet soil freshens up both bo...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.uc.ltmcdn.com/img/web/uncomo/apple-touch-icon-ipad-retina-152x152-precomposed.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://t1.uc.ltmcdn.com/en/images/6/4/6/img\_what\_to\_wear\_in\_india\_during\_monsoon\_season\_3646\_600.jpg\",\"width\":600,\"height\":399,\"aspectRatio\":0.665}}" %}
+
+
+
 **Impact of the Fashion Industry on climate change**
 
 {% embed data="{\"url\":\"https://fashionista.com/2017/09/fashion-industry-greenhouse-gas-climate-change-sustainability\",\"type\":\"link\",\"title\":\"The Fashion Industry Emits as Much Greenhouse Gas as All of Russia - Fashionista\",\"description\":\"Designers, CEOs and a data scientist weigh in on what it will take to change that.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://fashionista.com/site/images/apple-touch-icon-114x114-precomposed.png?v=2018-04-16-173624-73da4e6-009360\",\"width\":114,\"height\":114,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://fashionista.com/.image/t\_share/MTUwMTYyOTc0NDc1MDM2MTYz/climate-change-panel-ecosessions.jpg\",\"width\":1200,\"height\":798,\"aspectRatio\":0.665}}" %}
