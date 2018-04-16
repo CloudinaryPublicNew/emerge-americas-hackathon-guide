@@ -2,12 +2,13 @@
 
 {% tabs %}
 {% tab title="Cyclist Safety Analysis" %}
-Analyzing cyclist safety, how well cars keep off the bike lane \(image/video analysis\) 
+Help improve pedistrian and cyclist safety via image analysis. 
+
+Analyzing cyclist safety, how well cars keep off the bike lane \(image/video analysis\)
 {% endtab %}
 
 {% tab title="APIs and Resources" %}
-
-### Cloudinary APIS
+## Cloudinary APIS
 
 **Upload Widget:**
 
@@ -25,15 +26,11 @@ Analyzing cyclist safety, how well cars keep off the bike lane \(image/video ana
 
 {% embed data="{\"url\":\"https://cloudinary.com/blog/how\_to\_leverage\_multiple\_categorization\_engines\_for\_improved\_automatic\_tagging\",\"type\":\"link\",\"title\":\"How to leverage multiple categorization engines for improved automatic tagging\",\"description\":\"Improve the relevance and accuracy of your image tags by leveraging multiple engines to provide a more expansive list of tags\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cloudinary-res.cloudinary.com/image/asset/favicon-192x192-d6a96e11dd5adfebbb717d154665ee80.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://res.cloudinary.com/demo/image/upload/blog\_multi\_tag.jpg\",\"width\":1920,\"height\":1080,\"aspectRatio\":0.5625}}" %}
 
-### Other APIs
+## Other APIs
 
-**Weather API**
-
-{% embed data="{\"url\":\"https://www.wunderground.com/weather/api\",\"type\":\"link\",\"title\":\"API \| Weather Underground\",\"description\":\"Weather Underground provides local & long range Weather Forecast, weather reports, maps & tropical weather conditions for locations worldwide.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.wunderground.com/favicon.ico\",\"aspectRatio\":0}}" %}
-{% endtab %}
-
-{% tab title="Research" %}
-bar
+**IBM Watson Visual Recognition**
 {% endtab %}
 {% endtabs %}
+
+
 
