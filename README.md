@@ -35,10 +35,14 @@ Miami, FL 33132
 
 {% tab title="About This Guide" %}
 We're hackers too, so we know your time at the hackathon is limited. That's why we've developed this guide to help you harness our technology to realize your ideas in the most efficient way possible.
+
+Check out our thought starters these will help you to discover and refine your ideas into a winning hack.  
+
+Our resources will show 
 {% endtab %}
 
 {% tab title="Challenge and Prizes" %}
-### Challenge:
+### Challenge and Prizes:
 
 Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 
