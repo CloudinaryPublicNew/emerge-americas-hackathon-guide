@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="Climate-aware Shopping Assistant" %}
+
+
+![Bundle Up with a Climate Aware Shopping Assistant](.gitbook/assets/well-clothed_baby.jpg)
+
 Create a Climate-aware shopping assistant - upload fashion pieces identified by gender and age range, get these auto tagged. Use weather report to generate outfit suggestions. If available, use image analysis APIs to further tag the user in order to refine outfit selections.
 {% endtab %}
 
@@ -31,4 +35,36 @@ Create a Climate-aware shopping assistant - upload fashion pieces identified by 
 {% embed data="{\"url\":\"https://www.wunderground.com/weather/api\",\"type\":\"link\",\"title\":\"API \| Weather Underground\",\"description\":\"Weather Underground provides local & long range Weather Forecast, weather reports, maps & tropical weather conditions for locations worldwide.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.wunderground.com/favicon.ico\",\"aspectRatio\":0}}" %}
 {% endtab %}
 {% endtabs %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+Your content goes here.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+Your content goes here.
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+Your content goes here.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+Your content goes here.
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+Your content goes here.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+Your content goes here.
+{% endtab %}
+{% endtabs %}
+
+
 
