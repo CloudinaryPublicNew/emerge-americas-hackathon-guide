@@ -1,7 +1,3 @@
----
-description: 'Thought Starter: Croud-sourced Graffiti Abatement'
----
-
 # Croud-sourced Graffiti Abatement
 
 {% tabs %}
@@ -38,8 +34,7 @@ Build an app that can capture images, location data and the meta of graffiti. Us
 
 {% embed data="{\"url\":\"https://www.ibm.com/watson/services/visual-recognition\",\"type\":\"link\",\"title\":\"Watson Visual Recognition\",\"description\":\"Tag, classify and search visual content using machine learning.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.ibm.com/favicon.ico\",\"aspectRatio\":0}}" %}
 
-[  
-](https://www.ibm.com/watson/services/visual-recognition/)
+[Sample Graffiti Images](http://storage.pardot.com/28622/111653/original_images.json)
 {% endtab %}
 
 {% tab title="Research" %}

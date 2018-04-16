@@ -1,7 +1,3 @@
----
-description: 'Thought Starter: Bicyclist Safety Analysis'
----
-
 # Bicyclist Safety Analysis
 
 {% tabs %}

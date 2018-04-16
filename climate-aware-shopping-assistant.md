@@ -1,7 +1,3 @@
----
-description: 'Thought Starter: Climate-aware Shopping Assistant'
----
-
 # Climate-aware Shopping Assistant
 
 {% tabs %}
