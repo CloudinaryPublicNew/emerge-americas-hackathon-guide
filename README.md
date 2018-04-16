@@ -6,6 +6,8 @@ description: Emerge Americas Hackathon Guide
 
 ![](.gitbook/assets/emergeamericas2018-cover%20%281%29.png)
 
+{% tabs %}
+{% tab title="About The Hackathon" %}
 ### EXPERIENCE THE RUSH
 
 This mind-stimulating, adrenaline-fueled event attracted over 170+ coders last year and is sure to be even more exciting at eMerge Americas 2018. Hackathon participants have 24 hours to tackle complex challenges presented by industry-leading API sponsors. The reward? Thousands in prizes—and the thrill of building something amazing from the ground up. It’s also a wonderful opportunity for computer programmers and other software development professionals to collaborate on a project in a creatively-charged environment.
@@ -29,4 +31,23 @@ Miami, FL 33132
 ### REGISTER
 
 [Register for the hackathon](https://www.eventbrite.com/e/emerge-americas-hackathon-2018-in-partnership-with-wyncode-tickets-42537305225)
+{% endtab %}
+
+{% tab title="About This Guide" %}
+We're hackers too, so we know your time at the hackathon is limited. That's why we've developed this guide to help you harness our technology to realize your ideas in the most efficient way possible.
+{% endtab %}
+
+{% tab title="Challenge and Prizes" %}
+### Challenge:
+
+Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
+
+**Prizes:**
+
+* 1-year _Cloudinary Plus_ plan \($1068 value\) award to the hack team chosen as _best use of Cloudinary API_.
+* The most creative hack projects \(that make use of Cloudinary API\) will be featured on our Blog.
+{% endtab %}
+{% endtabs %}
+
+
 
