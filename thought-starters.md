@@ -36,35 +36,5 @@ Create a Climate-aware shopping assistant - upload fashion pieces identified by 
 {% endtab %}
 {% endtabs %}
 
-{% tabs %}
-{% tab title="First Tab" %}
-Your content goes here.
-{% endtab %}
-
-{% tab title="Second Tab" %}
-Your content goes here.
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="First Tab" %}
-Your content goes here.
-{% endtab %}
-
-{% tab title="Second Tab" %}
-Your content goes here.
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="First Tab" %}
-Your content goes here.
-{% endtab %}
-
-{% tab title="Second Tab" %}
-Your content goes here.
-{% endtab %}
-{% endtabs %}
-
 
 
