@@ -32,6 +32,8 @@ Build an app that can capture images, location data and the meta of graffiti. Us
 
 **IBM Watson Visual Recognition**
 
+[https://www.ibm.com/watson/services/visual-recognition/](https://www.ibm.com/watson/services/visual-recognition/)
+
 [  
 ](https://www.ibm.com/watson/services/visual-recognition/)
 {% endtab %}
