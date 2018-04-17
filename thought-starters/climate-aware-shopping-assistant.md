@@ -10,7 +10,7 @@ Create a Climate-aware shopping assistant - upload fashion pieces identified by 
 {% endtab %}
 
 {% tab title="APIs and Resources" %}
-### Cloudinary APIs
+## Cloudinary APIs
 
 **Upload Widget:**
 
