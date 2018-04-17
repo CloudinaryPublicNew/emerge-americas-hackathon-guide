@@ -1,20 +1,27 @@
-# Imagine: The Value of Trees
+# Bicyclist Safety Analysis
 
 {% tabs %}
-{% tab title="Imagine: The Value of Trees" %}
+{% tab title="Cyclist Safety Analysis" %}
+![Image as the Input:  Improve pedestrian and cyclist safety](../.gitbook/assets/bikesafety.jpg)
 
+Help improve pedestrian and cyclist safety via image analysis. 
 
-![Green Plan encourages native, drought-tolerant landscaping ](.gitbook/assets/drought2.jpg)
+The primary objectives of a Bicycle Safety Assessment \(BSA\) are:
 
-Plant more Florida-friendly and native trees and landscapes
+* To improve bicycle safety in a city or county
+* To create safe, comfortable, accessible, welcoming environments for cyclists
+* To enhance the bikeability and economic vitality of local districts
 
-The Green Print plan for Miami-Dade is to plant half a million trees by 2015 to achieve a 30 perecent tree canopy by 2020 and encourage native, drought-tolerant landscaping to cool our communities, capture greenhouse gas emissions, beautify our neighborhoods, and provide wildlife habitat.
+Use advance Image  and video analysis to improve cyclist safety.  
 
-Create an interactive website that catalogs local native, drought-tolerant landscaping and garden plans. Croudsource images from the community, and create an inteligent classification system.
+* Determine how well cars keep clear of bike lanes
+* Determine bike lane usage and capacity
 {% endtab %}
 
 {% tab title="APIs and Resources" %}
-**Upload Widget**
+## Cloudinary APIS
+
+**Upload Widget:**
 
 {% embed data="{\"url\":\"https://cloudinary.com/blog/how\_to\_let\_your\_users\_upload\_images\_directly\_from\_facebook\_dropbox\_and\_more\",\"type\":\"link\",\"title\":\"How to let your users upload images directly from Facebook, Dropbox and more\",\"description\":\"How to use a JavaScript upload widget UI to let your users pick images from Facebook albums, Dropbox folders, Google Photos, Image Search results and more\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cloudinary-res.cloudinary.com/image/asset/favicon-192x192-d6a96e11dd5adfebbb717d154665ee80.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cloudinary-res.cloudinary.com/image/upload/upload\_widget\_media\_sources\_post.jpg\",\"width\":2260,\"height\":1196,\"aspectRatio\":0.5292035398230088}}" %}
 
@@ -34,15 +41,21 @@ Create an interactive website that catalogs local native, drought-tolerant lands
 
 **IBM Watson Visual Recognition**
 
-{% embed data="{\"url\":\"https://www.ibm.com/watson/services/visual-recognition\",\"type\":\"link\",\"title\":\"Watson Visual Recognition\",\"description\":\"Tag, classify and search visual content using machine learning.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.ibm.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed data="{\"url\":\"https://www.ibm.com/watson/services/visual-recognition/\",\"type\":\"link\",\"title\":\"Watson Visual Recognition\",\"description\":\"Tag, classify and search visual content using machine learning.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.ibm.com/favicon.ico\",\"aspectRatio\":0}}" %}
+
+**Open Data**
+
+{% embed data="{\"url\":\"https://opendata.miamidade.gov\",\"type\":\"link\",\"title\":\"Miami-Dade County - Open Data Portal \| Miami-Dade County - Open Data Portal\",\"icon\":{\"type\":\"icon\",\"url\":\"https://opendata.miamidade.gov/stylesheets/images/icons/retina\_display\_icon.png?10435c87a2076f3c7c6d53988b6d4b4563664992.3833.1498149998\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//opendata.miamidade.gov/stylesheets/images/common/socrata\_logo\_square.png\",\"width\":130,\"height\":131,\"aspectRatio\":1.0076923076923077}}" %}
 {% endtab %}
 
 {% tab title="Research" %}
-> Community  gardens  can  serve  as  an outdoor  classroom  where  youth  can learn valuable skills, including practical math,   communication,   responsibility and  cooperation.  They  also  provide the  opportunity  to  learn  about  the importance of community stewardship and     environmental  responsibility 
->
-> --Gardening Matters
+**Understanding Bicycle Safety**
 
-Green Print Miami-Dade Plan
+{% embed data="{\"url\":\"https://en.wikipedia.org/wiki/Bicycle\_safety\",\"type\":\"link\",\"title\":\"Bicycle safety\",\"description\":\"Bicycle safety is the use of road traffic safety practices to reduce risk associated with cycling. Risk can be defined as the number of incidents occurring for a given amount of cycling. In many countries both the number of incidents and the amount of cycling are not well known. Non-fatal accidents often go unreported and bicycle use is only occasionally monitored. Some of this subject matter is hotly debated: for example, the discussions as to whether bicycle helmets or cyclepaths really improve safety. The merits of obeying the rules of the road including the use of bicycle lighting at night are less controversial.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://en.wikipedia.org/static/apple-touch/wikipedia.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bike\_slalom\_FHP\_Prospect\_jeh.JPG/1200px-Bike\_slalom\_FHP\_Prospect\_jeh.JPG\",\"width\":1200,\"height\":1082,\"aspectRatio\":0.9016666666666666}}" %}
+
+**Safety Assessments**
+
+{% embed data="{\"url\":\"http://www.techtransfer.berkeley.edu/services/bicycle-safety-assessments\",\"type\":\"link\",\"title\":\"Bicycle Safety Assessments \| TechTransfer\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.techtransfer.berkeley.edu/sites/default/files/favicon.ico\",\"aspectRatio\":0}}" %}
 {% endtab %}
 {% endtabs %}
 

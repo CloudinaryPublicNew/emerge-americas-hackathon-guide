@@ -4,7 +4,7 @@
 {% tab title="Climate-aware Shopping Assistant" %}
 
 
-![Bundle Up with a Climate Aware Shopping Assistant](.gitbook/assets/well-clothed_baby.jpg)
+![Bundle Up with a Climate Aware Shopping Assistant](../.gitbook/assets/well-clothed_baby.jpg)
 
 Create a Climate-aware shopping assistant - upload fashion pieces identified by gender and age range, get these auto tagged. Use weather report to generate outfit suggestions. If available, use image analysis APIs to further tag the user in order to refine outfit selections.
 {% endtab %}
