@@ -38,7 +38,9 @@ Create an interactive website that catalogs local native, drought-tolerant lands
 {% endtab %}
 
 {% tab title="Research" %}
-
+> Community  gardens  can  serve  as  an outdoor  classroom  where  youth  can learn valuable skills, including practical math,   communication,   responsibility and  cooperation.  They  also  provide the  opportunity  to  learn  about  the importance of community stewardship and     environmental  responsibility 
+>
+> --Gardening Matters
 
 Green Print Miami-Dade Plan
 {% endtab %}
