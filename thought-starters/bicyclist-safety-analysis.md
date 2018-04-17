@@ -19,7 +19,7 @@ Use advance Image  and video analysis to improve cyclist safety.
 {% endtab %}
 
 {% tab title="APIs and Resources" %}
-## Cloudinary APIS
+## Cloudinary APIs
 
 **Upload Widget:**
 

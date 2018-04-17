@@ -10,7 +10,7 @@ Build an app that can capture images, location data and the meta of graffiti. Us
 {% endtab %}
 
 {% tab title="APIs and Resources" %}
-## Cloudinary APIS {#cloudinary-apis}
+## Cloudinary APIs {#cloudinary-apis}
 
 **Upload Widget**
 

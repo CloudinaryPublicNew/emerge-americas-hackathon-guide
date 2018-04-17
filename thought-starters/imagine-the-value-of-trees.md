@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="Imagine: The Value of Trees" %}
-
+## Cloudinary APIs
 
 ![Green Plan encourages native, drought-tolerant landscaping ](../.gitbook/assets/drought2.jpg)
 
