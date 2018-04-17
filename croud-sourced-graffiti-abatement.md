@@ -4,7 +4,7 @@
 {% tab title="Croud-sourced Graffiti Abatement" %}
 
 
-![Graffiti Abatement costs cities millions](../.gitbook/assets/0.jpeg)
+![Graffiti Abatement costs cities millions](.gitbook/assets/0.jpeg)
 
 Build an app that can capture images, location data and the meta of graffiti. Use visual image recognition and analysis AI to train and recognize tags from specific offenders. Send notifications to your city's graffiti abatement division.  
 {% endtab %}
@@ -44,7 +44,7 @@ Build an app that can capture images, location data and the meta of graffiti. Us
 {% tab title="Research" %}
 
 
-![Jose De Diego Middle School, murals by \(from left\) Ahol Sniffs Glue, Santiago Rubino and Typoe.      \(far right\). David Cabrera for Rolling Stone](../.gitbook/assets/wynwood-2-0ceb102d-96d1-4832-9930-15e6ea65f907.jpg)
+![Jose De Diego Middle School, murals by \(from left\) Ahol Sniffs Glue, Santiago Rubino and Typoe.      \(far right\). David Cabrera for Rolling Stone](.gitbook/assets/wynwood-2-0ceb102d-96d1-4832-9930-15e6ea65f907.jpg)
 
 
 
