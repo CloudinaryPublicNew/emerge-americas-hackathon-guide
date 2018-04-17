@@ -2,6 +2,10 @@
 
 {% tabs %}
 {% tab title="Imagine: The Value of Trees" %}
+
+
+![Green Plan encourages native, drought-tolerant landscaping ](.gitbook/assets/drought2.jpg)
+
 Plant more Florida-friendly and native trees and landscapes
 
 The Green Print plan for Miami-Dade is to plant half a million trees by 2015 to achieve a 30 perecent tree canopy by 2020 and encourage native, drought-tolerant landscaping to cool our communities, capture greenhouse gas emissions, beautify our neighborhoods, and provide wildlife habitat.
