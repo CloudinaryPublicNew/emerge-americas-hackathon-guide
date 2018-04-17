@@ -4,9 +4,9 @@
 {% tab title="Imagine: The Value of Trees" %}
 Plant more Florida-friendly and native trees and landscapes
 
-The Green Print plan for Miami-Dade  is to plant half a million trees by 2015 to achieve a 30 perecent tree canopy by 2020 and encourage native, drought-tolerant landscaping to cool our communities, capture greenhouse gas emissions, beautify our neighborhoods, and provide wildlife habitat.
+The Green Print plan for Miami-Dade is to plant half a million trees by 2015 to achieve a 30 perecent tree canopy by 2020 and encourage native, drought-tolerant landscaping to cool our communities, capture greenhouse gas emissions, beautify our neighborhoods, and provide wildlife habitat.
 
-Create an interactive website that catalogs local native, drought-tolerant landscaping and garden plans.   Croudsource images from the community, and create an inteligent classification system.
+Create an interactive website that catalogs local native, drought-tolerant landscaping and garden plans. Croudsource images from the community, and create an inteligent classification system.
 {% endtab %}
 
 {% tab title="APIs and Resources" %}
@@ -26,22 +26,19 @@ Create an interactive website that catalogs local native, drought-tolerant lands
 
 {% embed data="{\"url\":\"https://cloudinary.com/blog/how\_to\_leverage\_multiple\_categorization\_engines\_for\_improved\_automatic\_tagging\",\"type\":\"link\",\"title\":\"How to leverage multiple categorization engines for improved automatic tagging\",\"description\":\"Improve the relevance and accuracy of your image tags by leveraging multiple engines to provide a more expansive list of tags\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cloudinary-res.cloudinary.com/image/asset/favicon-192x192-d6a96e11dd5adfebbb717d154665ee80.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://res.cloudinary.com/demo/image/upload/blog\_multi\_tag.jpg\",\"width\":1920,\"height\":1080,\"aspectRatio\":0.5625}}" %}
 
-### Other APIs
+## Other APIs
 
 **IBM Watson Visual Recognition**
 
 {% embed data="{\"url\":\"https://www.ibm.com/watson/services/visual-recognition\",\"type\":\"link\",\"title\":\"Watson Visual Recognition\",\"description\":\"Tag, classify and search visual content using machine learning.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.ibm.com/favicon.ico\",\"aspectRatio\":0}}" %}
-
-
-Other APIs
 {% endtab %}
 
 {% tab title="Research" %}
-[Green Print Miami-Dade Plan](https://www.miamidade.gov/greenprint/pdf/plan.pdf)
+
+
+Green Print Miami-Dade Plan
 {% endtab %}
 {% endtabs %}
-
-
 
 
 
