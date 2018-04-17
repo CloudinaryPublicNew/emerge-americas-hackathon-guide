@@ -41,13 +41,13 @@ Use advance Image  and video analysis to improve cyclist safety.
 
 **IBM Watson Visual Recognition**
 
-Open Data
+{% embed data="{\"url\":\"https://www.ibm.com/watson/services/visual-recognition/\",\"type\":\"link\",\"title\":\"Watson Visual Recognition\",\"description\":\"Tag, classify and search visual content using machine learning.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.ibm.com/favicon.ico\",\"aspectRatio\":0}}" %}
+
+**Open Data**
 
 {% embed data="{\"url\":\"https://opendata.miamidade.gov\",\"type\":\"link\",\"title\":\"Miami-Dade County - Open Data Portal \| Miami-Dade County - Open Data Portal\",\"icon\":{\"type\":\"icon\",\"url\":\"https://opendata.miamidade.gov/stylesheets/images/icons/retina\_display\_icon.png?10435c87a2076f3c7c6d53988b6d4b4563664992.3833.1498149998\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//opendata.miamidade.gov/stylesheets/images/common/socrata\_logo\_square.png\",\"width\":130,\"height\":131,\"aspectRatio\":1.0076923076923077}}" %}
 
-
-
-{% embed data="{\"url\":\"https://www.ibm.com/watson/services/visual-recognition/\",\"type\":\"link\",\"title\":\"Watson Visual Recognition\",\"description\":\"Tag, classify and search visual content using machine learning.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.ibm.com/favicon.ico\",\"aspectRatio\":0}}" %}
+[https://www.ibm.com/watson/services/visual-recognition/](https://www.ibm.com/watson/services/visual-recognition/)
 {% endtab %}
 
 {% tab title="Research" %}
