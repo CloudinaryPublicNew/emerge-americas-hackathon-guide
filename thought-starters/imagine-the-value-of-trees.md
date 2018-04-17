@@ -2,8 +2,6 @@
 
 {% tabs %}
 {% tab title="Imagine: The Value of Trees" %}
-## Cloudinary APIs
-
 ![Green Plan encourages native, drought-tolerant landscaping ](../.gitbook/assets/drought2.jpg)
 
 Plant more Florida-friendly and native trees and landscapes
