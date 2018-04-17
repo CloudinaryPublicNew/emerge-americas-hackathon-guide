@@ -32,12 +32,6 @@ Miami, FL 33132
 
 [Register for the hackathon](https://www.eventbrite.com/e/emerge-americas-hackathon-2018-in-partnership-with-wyncode-tickets-42537305225)
 
-We're hackers too, so we know your time at the hackathon is limited. That's why we've developed this guide to help you harness our technology to realize your ideas in the most efficient way possible.
-
-Check out our thought starters these will help you to discover and refine your ideas into a winning hack.
-
-Our resources will show
-
 ## CHALLENGE AND PRIZES
 
 Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
