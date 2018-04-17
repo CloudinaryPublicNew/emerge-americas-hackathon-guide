@@ -38,7 +38,7 @@ Check out our thought starters these will help you to discover and refine your i
 
 Our resources will show
 
-## Challenge and Prizes:
+## CHALLENGE AND PRIZES
 
 Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 
