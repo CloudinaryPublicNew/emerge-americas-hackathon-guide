@@ -4,6 +4,8 @@ description: Emerge Americas Hackathon Guide
 
 # Emerge Americas Hackathon Guide
 
+
+
 ![](.gitbook/assets/emergeamericas2018-cover%20%281%29.png)
 
 ## EXPERIENCE THE RUSH
