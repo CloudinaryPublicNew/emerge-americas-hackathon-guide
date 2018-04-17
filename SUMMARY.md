@@ -5,4 +5,5 @@
 * [Bicyclist Safety Analysis](bicyclist-safety-analysis.md)
 * [Croud-sourced Graffiti Abatement](croud-sourced-graffiti-abatement.md)
 * [Imagine: The Value of Trees](imagine-the-value-of-trees.md)
+* [Thought Starters](thought-starters.md)
 
