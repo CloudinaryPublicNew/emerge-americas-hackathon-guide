@@ -33,6 +33,10 @@ Create a Climate-aware shopping assistant - upload fashion pieces identified by 
 **Weather API**
 
 {% embed data="{\"url\":\"https://www.wunderground.com/weather/api\",\"type\":\"link\",\"title\":\"API \| Weather Underground\",\"description\":\"Weather Underground provides local & long range Weather Forecast, weather reports, maps & tropical weather conditions for locations worldwide.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.wunderground.com/favicon.ico\",\"aspectRatio\":0}}" %}
+
+**Open Data**
+
+{% embed data="{\"url\":\"https://opendata.miamidade.gov\",\"type\":\"link\",\"title\":\"Miami-Dade County - Open Data Portal \| Miami-Dade County - Open Data Portal\",\"icon\":{\"type\":\"icon\",\"url\":\"https://opendata.miamidade.gov/stylesheets/images/icons/retina\_display\_icon.png?10435c87a2076f3c7c6d53988b6d4b4563664992.3833.1498149998\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//opendata.miamidade.gov/stylesheets/images/common/socrata\_logo\_square.png\",\"width\":130,\"height\":131,\"aspectRatio\":1.0076923076923077}}" %}
 {% endtab %}
 
 {% tab title="Research" %}
