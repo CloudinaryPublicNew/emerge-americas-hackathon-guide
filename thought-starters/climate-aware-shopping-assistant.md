@@ -9,7 +9,7 @@
 Create a Climate-aware shopping assistant - upload fashion pieces identified by gender and age range, get these auto tagged. Use weather report to generate outfit suggestions. If available, use image analysis APIs to further tag the user in order to refine outfit selections.
 {% endtab %}
 
-{% tab title="APIs and Resources" %}
+{% tab title="APIs and More" %}
 ## Cloudinary APIs
 
 **Upload Widget:**
@@ -39,7 +39,7 @@ Create a Climate-aware shopping assistant - upload fashion pieces identified by 
 {% embed data="{\"url\":\"https://opendata.miamidade.gov\",\"type\":\"link\",\"title\":\"Miami-Dade County - Open Data Portal \| Miami-Dade County - Open Data Portal\",\"icon\":{\"type\":\"icon\",\"url\":\"https://opendata.miamidade.gov/stylesheets/images/icons/retina\_display\_icon.png?10435c87a2076f3c7c6d53988b6d4b4563664992.3833.1498149998\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//opendata.miamidade.gov/stylesheets/images/common/socrata\_logo\_square.png\",\"width\":130,\"height\":131,\"aspectRatio\":1.0076923076923077}}" %}
 {% endtab %}
 
-{% tab title="Research" %}
+{% tab title="References" %}
 **Seasonal Clothing**
 
 {% embed data="{\"url\":\"https://beauty.onehowto.com/article/what-to-wear-in-india-during-monsoon-season-3646.html\",\"type\":\"link\",\"title\":\"What to Wear in India during Monsoon Season\",\"description\":\"What to Wear in India during Monsoon Season. In most part of India, monsoon typically lasts from June to September.The monsoon has many benefits and brings out the green landscape of India and the smell of the lovely wet soil freshens up both bo...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.uc.ltmcdn.com/img/web/uncomo/apple-touch-icon-ipad-retina-152x152-precomposed.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://t1.uc.ltmcdn.com/en/images/6/4/6/img\_what\_to\_wear\_in\_india\_during\_monsoon\_season\_3646\_600.jpg\",\"width\":600,\"height\":399,\"aspectRatio\":0.665}}" %}

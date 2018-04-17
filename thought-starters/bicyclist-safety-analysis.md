@@ -18,7 +18,7 @@ Use advance Image  and video analysis to improve cyclist safety.
 * Determine bike lane usage and capacity
 {% endtab %}
 
-{% tab title="APIs and Resources" %}
+{% tab title="APIs and More" %}
 ## Cloudinary APIs
 
 **Upload Widget:**
@@ -48,7 +48,7 @@ Use advance Image  and video analysis to improve cyclist safety.
 {% embed data="{\"url\":\"https://opendata.miamidade.gov\",\"type\":\"link\",\"title\":\"Miami-Dade County - Open Data Portal \| Miami-Dade County - Open Data Portal\",\"icon\":{\"type\":\"icon\",\"url\":\"https://opendata.miamidade.gov/stylesheets/images/icons/retina\_display\_icon.png?10435c87a2076f3c7c6d53988b6d4b4563664992.3833.1498149998\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//opendata.miamidade.gov/stylesheets/images/common/socrata\_logo\_square.png\",\"width\":130,\"height\":131,\"aspectRatio\":1.0076923076923077}}" %}
 {% endtab %}
 
-{% tab title="Research" %}
+{% tab title="References" %}
 **Understanding Bicycle Safety**
 
 {% embed data="{\"url\":\"https://en.wikipedia.org/wiki/Bicycle\_safety\",\"type\":\"link\",\"title\":\"Bicycle safety\",\"description\":\"Bicycle safety is the use of road traffic safety practices to reduce risk associated with cycling. Risk can be defined as the number of incidents occurring for a given amount of cycling. In many countries both the number of incidents and the amount of cycling are not well known. Non-fatal accidents often go unreported and bicycle use is only occasionally monitored. Some of this subject matter is hotly debated: for example, the discussions as to whether bicycle helmets or cyclepaths really improve safety. The merits of obeying the rules of the road including the use of bicycle lighting at night are less controversial.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://en.wikipedia.org/static/apple-touch/wikipedia.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bike\_slalom\_FHP\_Prospect\_jeh.JPG/1200px-Bike\_slalom\_FHP\_Prospect\_jeh.JPG\",\"width\":1200,\"height\":1082,\"aspectRatio\":0.9016666666666666}}" %}

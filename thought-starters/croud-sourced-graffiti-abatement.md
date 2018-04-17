@@ -9,7 +9,7 @@
 Build an app that can capture images, location data and the meta of graffiti. Use visual image recognition and analysis AI to train and recognize tags from specific offenders. Send notifications to your city's graffiti abatement division.  
 {% endtab %}
 
-{% tab title="APIs and Resources" %}
+{% tab title="APIs and More" %}
 ## Cloudinary APIs {#cloudinary-apis}
 
 **Upload Widget**
@@ -41,7 +41,7 @@ Build an app that can capture images, location data and the meta of graffiti. Us
 [Sample Graffiti Images](http://storage.pardot.com/28622/111653/original_images.json)
 {% endtab %}
 
-{% tab title="Research" %}
+{% tab title="References" %}
 
 
 ![Jose De Diego Middle School, murals by \(from left\) Ahol Sniffs Glue, Santiago Rubino and Typoe.      \(far right\). David Cabrera for Rolling Stone](../.gitbook/assets/wynwood-2-0ceb102d-96d1-4832-9930-15e6ea65f907.jpg)

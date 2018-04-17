@@ -11,7 +11,7 @@ The Green Print plan for Miami-Dade is to plant half a million trees by 2015 to 
 Create an interactive website that catalogs local native, drought-tolerant landscaping and garden plans. Croudsource images from the community, and create an inteligent classification system.
 {% endtab %}
 
-{% tab title="APIs and Resources" %}
+{% tab title="APIs and More" %}
 ## Cloudinary APIs
 
 **Upload Widget**
@@ -37,7 +37,7 @@ Create an interactive website that catalogs local native, drought-tolerant lands
 {% embed data="{\"url\":\"https://www.ibm.com/watson/services/visual-recognition\",\"type\":\"link\",\"title\":\"Watson Visual Recognition\",\"description\":\"Tag, classify and search visual content using machine learning.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.ibm.com/favicon.ico\",\"aspectRatio\":0}}" %}
 {% endtab %}
 
-{% tab title="Research" %}
+{% tab title="References" %}
 > Community  gardens  can  serve  as  an outdoor  classroom  where  youth  can learn valuable skills, including practical math,   communication,   responsibility and  cooperation.  They  also  provide the  opportunity  to  learn  about  the importance of community stewardship and     environmental  responsibility 
 >
 > --Gardening Matters
