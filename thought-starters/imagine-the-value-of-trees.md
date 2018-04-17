@@ -14,6 +14,8 @@ Create an interactive website that catalogs local native, drought-tolerant lands
 {% endtab %}
 
 {% tab title="APIs and Resources" %}
+## Cloudinary APIs
+
 **Upload Widget**
 
 {% embed data="{\"url\":\"https://cloudinary.com/blog/how\_to\_let\_your\_users\_upload\_images\_directly\_from\_facebook\_dropbox\_and\_more\",\"type\":\"link\",\"title\":\"How to let your users upload images directly from Facebook, Dropbox and more\",\"description\":\"How to use a JavaScript upload widget UI to let your users pick images from Facebook albums, Dropbox folders, Google Photos, Image Search results and more\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cloudinary-res.cloudinary.com/image/asset/favicon-192x192-d6a96e11dd5adfebbb717d154665ee80.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cloudinary-res.cloudinary.com/image/upload/upload\_widget\_media\_sources\_post.jpg\",\"width\":2260,\"height\":1196,\"aspectRatio\":0.5292035398230088}}" %}
