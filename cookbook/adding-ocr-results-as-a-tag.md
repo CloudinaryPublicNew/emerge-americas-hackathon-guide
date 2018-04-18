@@ -1,5 +1,9 @@
 # Adding OCR results as a Tag
 
+
+
+![Easily Capture Text from Images](../.gitbook/assets/ec18d5b63b46a112b486a97a9d8885d7.jpg)
+
 Cloudinary ocr add-on allows you to easily capture text found in images.   This example shows you how to  captire the text and then update the images tags with the captured text.
 
 ```javascript
