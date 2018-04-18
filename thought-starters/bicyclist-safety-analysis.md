@@ -50,6 +50,8 @@ Use advance Image  and video analysis to improve cyclist safety.
 **Functions as a Service \(FaaS\)**
 
 {% embed data="{\"url\":\"https://webtask.io/docs/101\",\"type\":\"link\",\"title\":\"Webtask\",\"description\":\"All you need is code! Run code with an HTTP call. No provisioning. No deployment.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://webtask.io/images/favicon/android-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://webtask.io/images/facebook-card.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+
+{% page-ref page="../cookbook/autotag\_faas/" %}
 {% endtab %}
 
 {% tab title="References" %}
