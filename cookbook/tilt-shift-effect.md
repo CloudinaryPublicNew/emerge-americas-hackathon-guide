@@ -1,5 +1,5 @@
 ---
-description: By Robert Moseley
+description: By Robert Moseley  Director - Solutions Engineering
 ---
 
 # Tilt Shift Effect
