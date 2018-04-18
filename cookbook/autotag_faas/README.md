@@ -18,9 +18,7 @@ Next [sign up](https://webtask.io/make) for webtask and follow these steps to cr
 
 ### Install the Cli
 
-The recommended way of using webtask is through the `wt `command line interface.
-
-> [Install the CLI](https://webtask.io/cli)
+The recommended way of using webtask is through the `wt `command line interface. 
 
 #### Install wt command line interface.
 
