@@ -2,7 +2,7 @@
 description: Use Cloudinary and Auth0 Webtask to Auto tag with multiple add-ons.
 ---
 
-# Auto Tagging Images with FanS
+# Auto Tagging Images with FaaS
 
 ## Setup Cloudinary
 
