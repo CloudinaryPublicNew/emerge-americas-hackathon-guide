@@ -69,3 +69,16 @@ module.exports = function(context, cb) {
 };
 ```
 
+{% hint style="warning" %}
+We created a function passing in the context and callback as params. This allows us to complete the callback \(cb\) when Cloudinary's api returns either an error or result.
+{% endhint %}
+
+{% code-tabs %}
+{% code-tabs-item title="JSON Results" %}
+```text
+
+
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
