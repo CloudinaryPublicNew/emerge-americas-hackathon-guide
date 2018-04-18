@@ -20,7 +20,7 @@ Next [sign up](https://webtask.io/make) for webtask and follow these steps to cr
 
 The recommended way of using webtask is through the `wt `command line interface. 
 
-#### Install wt command line interface.
+#### Install wt command line interface
 
 `wt` is an [open source ](https://github.com/auth0/wt-cli)Node.js CLI to interact with the webtask API.
 
@@ -28,7 +28,7 @@ The recommended way of using webtask is through the `wt `command line interface.
 npm install wt-cli -g
 ```
 
-#### Initialize wt.
+#### Initialize wt
 
 `wt` will ask for an e-mail or phone number to send you an activation code.
 
@@ -36,7 +36,7 @@ npm install wt-cli -g
 wt init name@company.com
 ```
 
-#### Create a simple webtask.
+#### Create a simple webtask
 
 Now let's make our first webtask, simply enter wt edit and create empty webtask:
 
@@ -48,7 +48,7 @@ wt edit
 This launches the wt editor and code runner. Test your webtask FaaS by hitting the play icon. The code runner will show the results. You can also copy the task URL from the bottom of the editor and open that in a new browser to view the results.
 {% endhint %}
 
-**Cloudinary API:   Auto Tagging code example:**
+## Using the Cloudinary API: an Auto Tagging code example
 
 **Code Signature:**
 
@@ -70,7 +70,7 @@ Note:  First param can be a public\_id of an asset on cloudinary or a publically
 
 Once you set it up, create an empty task called auto-tag-example:
 
-**NPM Modules**
+### NPM Modules
 
 Click on the wrench Icon, npm modules, search and add the cloudinary SDK. The add the require statement at the top of your task.
 
@@ -78,7 +78,7 @@ Click on the wrench Icon, npm modules, search and add the cloudinary SDK. The ad
     var cloudinary = require('cloudinary');
 ```
 
-**Secrets**
+### Secrets
 
 Click on the wrench Icon,  Secrets and enter a key and value for **cloud\_name**, **api\_key**, and **api\_secret - **these should match those values found in the Cloudinary dashboard.
 
