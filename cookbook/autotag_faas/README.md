@@ -22,11 +22,33 @@ The recommended way of using webtask is through the `wt `command line interface.
 
 > [Install the CLI](https://webtask.io/cli)
 
+#### Install wt command line interface.
+
+`wt` is an [open source ](https://github.com/auth0/wt-cli)Node.js CLI to interact with the webtask API.
+
 ```text
-wt edit 
+npm install wt-cli -g
 ```
 
-This launches the wt editor and code runner.
+#### Initialize wt.
+
+`wt` will ask for an e-mail or phone number to send you an activation code.
+
+```text
+wt init name@company.com
+```
+
+#### Create a simple webtask.
+
+Now let's make our first webtask, simply enter wt edit and create empty webtask:
+
+```text
+wt edit
+```
+
+{% hint style="info" %}
+This launches the wt editor and code runner. Test your webtask FaaS by hitting the play icon. The code runner will show the results. You can also copy the task URL from the bottom of the editor and open that in a new browser to view the results.
+{% endhint %}
 
 **Cloudinary API:   Auto Tagging code example:**
 
