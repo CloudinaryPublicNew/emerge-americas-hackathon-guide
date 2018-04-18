@@ -2,7 +2,7 @@
 description: Use Cloudinary and Auth0 Webtask to Auto tag with multiple add-ons.
 ---
 
-# Auto Tagging Images with Fans
+# Auto Tagging Images with FanS
 
 ## Setup Cloudinary
 
@@ -22,14 +22,18 @@ The recommended way of using webtask is through the `wt `command line interface.
 
 > [Install the CLI](https://webtask.io/cli)
 
-Once you set it up, here are some common examples of usage.
+**Cloudinary API:   Auto Tagging code example:**
 
-Auto Tagging example:
+Code Signature:
+
+```text
+cloudinary.v2.uploader.upload(id,options, callback);
+```
 
 ```javascript
 const public_id = "car.jpg";
 const options = { categorization: "google_tagging,imagga_tagging,aws_rek_tagging", auto_tagging: 0.6 };
-cloudinary.uploader.upload(public_id, options, function(error, result) { 
+cloudinary.v2.uploader.upload(public_id, options, function(error, result) { 
 console.log(result); 
 });
 ```
@@ -37,6 +41,16 @@ console.log(result);
 {% hint style="warning" %}
 Note:  First param can be a public\_id of an asset on cloudinary or a publically accessable URL. 
 {% endhint %}
+
+Once you set it up, create an empty task called auto-tag-example:
+
+Click on the wrench Icon, npm modules, search and add the cloudinary SDK. The add the require statement at the top of your task.
+
+```text
+var cloudinary = require('cloudinary');
+```
+
+
 
 Let's move the code example into the webtask:
 
