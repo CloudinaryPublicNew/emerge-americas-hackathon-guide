@@ -1,10 +1,12 @@
 ---
-description: Create a looping animated gif from a video clip
+description: By Robert Moseley  Director - Solutions Engineering
 ---
 
 # Create a looping animated gif
 
 ![Too Cute for Words](http://res.cloudinary.com/demo-robert/video/upload/w_300/vs_2.0s,du_5/e_loop/dog.gif)
+
+## Create a looping animated gif from a video clip
 
 ### Upload your short video to Cloudinary
 
