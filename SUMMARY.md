@@ -11,5 +11,5 @@
 
 * [Auto Tagging Images with FaaS](cookbook/autotag_faas/README.md)
   * [JSON Results](cookbook/autotag_faas/json-results.md)
-* [Adding OCR results as a Tag](cookbook/adding-ocr-results-as-a-tag.md)
+* [Adding OCR Results as a Tag](cookbook/adding-ocr-results-as-a-tag.md)
 

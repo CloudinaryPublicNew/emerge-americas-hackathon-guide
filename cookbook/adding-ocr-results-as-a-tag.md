@@ -2,7 +2,7 @@
 description: By Josh Slivken - Cloudinary Solutions Engineer
 ---
 
-# Adding OCR results as a Tag
+# Adding OCR Results as a Tag
 
 
 
