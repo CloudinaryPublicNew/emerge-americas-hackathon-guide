@@ -46,7 +46,7 @@ Let's move the code example into the webtask:
 function labelImage(context, cb){
 
 
-const public_id = context.query.url ||  "car.jpg";  
+const public_id = context.query.url ||  "http://res.cloudinary.com/de-demo/image/upload/q_auto:best/v1524008113/flooded_road_source.jpg";  
 const options = { categorization: "google_tagging,imagga_tagging,aws_rek_tagging", 
 auto_tagging: 0.6 };
 
@@ -78,14 +78,7 @@ module.exports = function(context, cb) {
 We created a function passing in the context and callback as params. This allows us to complete the callback \(cb\) when Cloudinary's api returns either an error or result.
 {% endhint %}
 
-{% code-tabs %}
-{% code-tabs-item title="JSON Results" %}
-```text
-
-
-```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% page-ref page="json-results.md" %}
 
 
 
