@@ -9,5 +9,6 @@
 
 ## Cookbook
 
-* [Auto Tagging Images with Fans](cookbook/untitled.md)
+* [Auto Tagging Images with Fans](cookbook/untitled/README.md)
+  * [JSON Results](cookbook/untitled/json-results.md)
 

@@ -40,8 +40,11 @@ Note:  First param can be a public\_id of an asset on cloudinary or a publically
 
 Let's move the code example into the webtask:
 
+{% code-tabs %}
+{% code-tabs-item title="JavaScript" %}
 ```javascript
 function labelImage(context, cb){
+
 
 const public_id = context.query.url ||  "car.jpg";  
 const options = { categorization: "google_tagging,imagga_tagging,aws_rek_tagging", 
@@ -68,6 +71,8 @@ module.exports = function(context, cb) {
     labelImage(context, cb);
 };
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 {% hint style="warning" %}
 We created a function passing in the context and callback as params. This allows us to complete the callback \(cb\) when Cloudinary's api returns either an error or result.
@@ -81,4 +86,6 @@ We created a function passing in the context and callback as params. This allows
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
+
+
 
