@@ -27,5 +27,11 @@ cloudinary.v2.uploader.upload(url,options, function(error,result){
    });
 ```
 
+{% hint style="success" %}
+Want to try this out quickly?   Use a webtask FaaS.  Check out this article:
+
+{% page-ref page="autotag\_faas/" %}
+{% endhint %}
+
 
 
