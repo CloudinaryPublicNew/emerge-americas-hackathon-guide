@@ -35,6 +35,10 @@ Create an interactive website that catalogs local native, drought-tolerant lands
 **IBM Watson Visual Recognition**
 
 {% embed data="{\"url\":\"https://www.ibm.com/watson/services/visual-recognition\",\"type\":\"link\",\"title\":\"Watson Visual Recognition\",\"description\":\"Tag, classify and search visual content using machine learning.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.ibm.com/favicon.ico\",\"aspectRatio\":0}}" %}
+
+**Functions as a Service \(FaaS\)**
+
+{% embed data="{\"url\":\"https://webtask.io/docs/101\",\"type\":\"link\",\"title\":\"Webtask\",\"description\":\"All you need is code! Run code with an HTTP call. No provisioning. No deployment.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://webtask.io/images/favicon/android-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://webtask.io/images/facebook-card.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
 {% endtab %}
 
 {% tab title="References" %}
