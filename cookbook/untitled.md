@@ -41,6 +41,31 @@ Note:  First param can be a public\_id of an asset on cloudinary or a publically
 Let's move the code example into the webtask:
 
 ```javascript
+function labelImage(context, cb){
 
+const public_id = context.query.url ||  "car.jpg";  
+const options = { categorization: "google_tagging,imagga_tagging,aws_rek_tagging", 
+auto_tagging: 0.6 };
+
+cloudinary.uploader.upload(public_id, options, function(error, result) { 
+if(error){
+  cb(error);
+}
+  console.log(result); 
+  cb(null, result)
+});
+
+}
+
+module.exports = function(context, cb) {
+  
+   cloudinary.config({
+      "cloud_name":  context.secrets.cloud_name,
+      "api_key": context.secrets.api_key,
+      "api_secret":  context.secrets.api_secret
+    });
+    
+    labelImage(context, cb);
+};
 ```
 
