@@ -2,13 +2,13 @@
 description: By Robert Moseley  Director - Solutions Engineering
 ---
 
-# Create a looping animated gif
+# Looping Animated GIFs
 
 ![Too Cute for Words](http://res.cloudinary.com/demo-robert/video/upload/w_300/vs_2.0s,du_5/e_loop/dog.gif)
 
-## Create a looping animated gif from a video clip
+## Create a looping animated GIF from a video clip
 
-### Upload your short video to Cloudinary
+### Upload a short video to Cloudinary
 
 ### Modify The Video URL
 
