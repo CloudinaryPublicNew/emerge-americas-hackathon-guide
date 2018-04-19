@@ -2,7 +2,7 @@
 description: Emerge Americas Hackathon Guide
 ---
 
-# Emerge Americas Hackathon Guide
+# eMerge Americas Hackathon Guide
 
 
 

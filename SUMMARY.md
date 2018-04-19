@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Emerge Americas Hackathon Guide](README.md)
+* [eMerge Americas Hackathon Guide](README.md)
 * [Thought Starters](thought-starters/README.md)
   * [Climate-aware Shopping](thought-starters/climate-aware-shopping-assistant.md)
   * [Cyclist Safety Assessment](thought-starters/bicyclist-safety-analysis.md)
