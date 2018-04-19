@@ -1,12 +1,12 @@
-# Croud-sourced Graffiti Abatement
+# Monitoring Street Graffiti
 
 {% tabs %}
-{% tab title="Croud-sourced Graffiti Abatement" %}
+{% tab title="Monitoring Street Graffiti" %}
 
 
 ![Graffiti Abatement costs cities millions](../.gitbook/assets/0.jpeg)
 
-Build an app that can capture images, location data and the meta of graffiti. Use visual image recognition and analysis AI to train and recognize tags from specific offenders. Send notifications to your city's graffiti abatement division.  
+Build an app that can capture images, location data and the meta of graffiti. Use image recognition and analysis AI to train and recognize tags from specific offenders. Send notifications to your city's graffiti abatement division.  
 {% endtab %}
 
 {% tab title="APIs and More" %}

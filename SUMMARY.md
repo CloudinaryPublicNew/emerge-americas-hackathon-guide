@@ -5,7 +5,7 @@
   * [Climate-aware Shopping](thought-starters/climate-aware-shopping-assistant.md)
   * [Cyclist Safety Assessment](thought-starters/bicyclist-safety-analysis.md)
   * [Environmental Green Plan](thought-starters/imagine-the-value-of-trees.md)
-  * [Croud-sourced Graffiti Abatement](thought-starters/croud-sourced-graffiti-abatement.md)
+  * [Monitoring Street Graffiti](thought-starters/croud-sourced-graffiti-abatement.md)
 
 ## Cookbook
 
