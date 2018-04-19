@@ -1,4 +1,4 @@
-# Bicyclist Safety Analysis
+# Cyclist Safety Analysis
 
 {% tabs %}
 {% tab title="Cyclist Safety Analysis" %}

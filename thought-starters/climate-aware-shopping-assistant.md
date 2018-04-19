@@ -1,7 +1,7 @@
-# Climate-aware Shopping Assistant
+# Climate-aware Shopping
 
 {% tabs %}
-{% tab title="Climate-aware Shopping Assistant" %}
+{% tab title="Climate-aware Shopping" %}
 
 
 ![Bundle Up with a Climate Aware Shopping Assistant](../.gitbook/assets/well-clothed_baby.jpg)
