@@ -1,8 +1,8 @@
 ---
-description: By Robert Moseley  Director - Solutions Engineering
+description: By Robert Moseley (Solutions Engineering)
 ---
 
-# Tilt Shift Effect
+# Tilt Shift Effects
 
 ![](http://res.cloudinary.com/demo-robert/image/upload/e_tilt_shift/DSjKxBfVwAAZidN_qjympa.jpg)
 

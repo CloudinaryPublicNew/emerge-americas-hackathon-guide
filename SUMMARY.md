@@ -13,5 +13,5 @@
   * [JSON Results](cookbook/autotag_faas/json-results.md)
 * [Tag with OCR Results](cookbook/adding-ocr-results-as-a-tag.md)
 * [Looping Animated GIFs](cookbook/looping_gif.md)
-* [Tilt Shift Effect](cookbook/tilt-shift-effect.md)
+* [Tilt Shift Effects](cookbook/tilt-shift-effect.md)
 
