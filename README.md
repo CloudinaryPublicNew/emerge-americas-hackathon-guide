@@ -26,7 +26,8 @@ Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 
 **Prizes:**
 
-* 1-year _Cloudinary Plus_ plan \($1068 value\) award to the hack team chosen as _best use of Cloudinary API_.
+* **$1000 in CASH** plus 1-year [Cloudinary Plus plan](https://cloudinary.com/pricing) \($1068 value\) award to the hack team chosen as _most creative use of Cloudinary API_.
+* 1-year [Cloudinary Plus plan](https://cloudinary.com/pricing) \($1068 value\) award to the hack team chosen as _best implementation using the Cloudinary API_.
 * The most creative hack projects \(that make use of Cloudinary API\) will be featured on our Blog
 
 {% page-ref page="thought-starters/" %}
