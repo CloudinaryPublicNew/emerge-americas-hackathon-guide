@@ -1,7 +1,9 @@
-# Cyclist Safety Analysis
+# Cyclist Safety Assessment
+
+
 
 {% tabs %}
-{% tab title="Cyclist Safety Analysis" %}
+{% tab title="Cyclist Safety Assessment" %}
 ![Image as the Input:  Improve pedestrian and cyclist safety](../.gitbook/assets/bikesafety.jpg)
 
 Help improve pedestrian and cyclist safety via image analysis. 
@@ -14,7 +16,7 @@ The primary objectives of a Bicycle Safety Assessment \(BSA\) are:
 
 Use advance Image  and video analysis to improve cyclist safety.  
 
-* Determine how well cars keep clear of bike lanes
+* Determine how well cars keep clear off bike lanes
 * Determine bike lane usage and capacity
 {% endtab %}
 
