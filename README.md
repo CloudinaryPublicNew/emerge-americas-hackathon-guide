@@ -38,15 +38,13 @@ As a participant, you will receive a complimentary Tech Pass. On the day of the 
 
 **WHEN:**
 
-Saturday, April 21 at 8 am – Sunday, April 22 at 2 pm  
-Hacking from 10am Saturday to 10am Sunday
+Saturday, April 21 at 8am thru Sunday, April 22 at 2pm  
+Hacking starts 10am Saturday and ends 10am Sunday
 
 **WHERE:**
 
-Miami Dade College  
-Wolfson Campus  
-300 NE Second Ave.  
-Miami, FL 33132
+Miami Dade College, Wolfson Campus  
+300 NE Second Ave., Miami, FL 33132
 
 
 
