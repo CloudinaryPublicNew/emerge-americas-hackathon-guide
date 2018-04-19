@@ -9,7 +9,7 @@
 
 ## Cookbook
 
-* [Auto Tagging Images with FaaS](cookbook/autotag_faas/README.md)
+* [Serverless Auto-Tagging](cookbook/autotag_faas/README.md)
   * [JSON Results](cookbook/autotag_faas/json-results.md)
 * [Adding OCR Results as a Tag](cookbook/adding-ocr-results-as-a-tag.md)
 * [Create a looping animated gif](cookbook/looping_gif.md)

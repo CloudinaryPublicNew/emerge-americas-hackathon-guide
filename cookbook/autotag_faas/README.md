@@ -1,20 +1,20 @@
 ---
-description: Use Cloudinary and Auth0 Webtask to Auto tag with multiple add-ons.
+description: Use Cloudinary and Auth0 Webtask to auto-tag images with multiple add-ons.
 ---
 
-# Auto Tagging Images with FaaS
+# Serverless Auto-Tagging
 
 ## Setup Cloudinary
 
-First things, first,  sign up for [Cloudinary](https://cloudinary.com/signup?utm_source=Emerge_Americas&utm_medium=Gitbook&utm_campaign=Evangelism&utm_term=Hackathon&utm_content=Signup_EA)
+First things first,  [sign up for Cloudinary](https://cloudinary.com/signup?utm_source=Emerge_Americas&utm_medium=Gitbook&utm_campaign=Evangelism&utm_term=Hackathon&utm_content=Signup_EA).
 
 {% hint style="info" %}
-TIP: During the sign up process, make sure you create a memerable cloud name for your cloudinary account.   Hacking Teams will want to create one account and name their cloud name after their team.
+TIP: During the sign up process, choose a memorable **cloud name** for your Cloudinary account.  Hacking Teams will want to create one account and name their cloud after their team name.
 {% endhint %}
 
 ## Sign up for Auth0 Webtask
 
-Next [sign up](https://webtask.io/make) for webtask and follow these steps to create an empty function:
+Next, [sign up for Webtask](https://webtask.io/make) and follow these steps to create an empty function:
 
 ### Install the Cli
 
@@ -22,7 +22,7 @@ The recommended way of using webtask is through the `wt `command line interface.
 
 #### Install wt command line interface
 
-`wt` is an [open source ](https://github.com/auth0/wt-cli)Node.js CLI to interact with the webtask API.
+`wt` is an open source [Node.js CLI](https://github.com/auth0/wt-cli) to interact with the Webtask API.
 
 ```text
 npm install wt-cli -g
@@ -38,7 +38,7 @@ wt init name@company.com
 
 #### Create a simple webtask
 
-Now let's make our first webtask, simply enter wt edit and create empty webtask:
+Now, let's make our first webtask. Simply type _wt edit_ and create an empty webtask:
 
 ```text
 wt edit
@@ -58,7 +58,7 @@ cloudinary.v2.uploader.upload(id,options, callback);
 
 ```javascript
 const public_id = "car.jpg";
-const options = { categorization: "google_tagging,imagga_tagging,aws_rek_tagging", auto_tagging: 0.6 };
+const options = {categorization: "google_tagging,imagga_tagging,aws_rek_tagging", auto_tagging: 0.6 };
 cloudinary.v2.uploader.upload(public_id, options, function(error, result) { 
 console.log(result); 
 });
@@ -72,7 +72,7 @@ Once you set it up, create an empty task called auto-tag-example:
 
 ### NPM Modules
 
-Click on the wrench Icon, npm modules, search and add the cloudinary SDK. The add the require statement at the top of your task.
+Click on the wrench icon, npm modules, search and add the Cloudinary SDK. Then, add the require statement at the top of your task.
 
 ```text
     var cloudinary = require('cloudinary');
@@ -80,7 +80,7 @@ Click on the wrench Icon, npm modules, search and add the cloudinary SDK. The ad
 
 ### Secrets
 
-Click on the wrench Icon,  Secrets and enter a key and value for **cloud\_name**, **api\_key**, and **api\_secret - **these should match those values found in the Cloudinary dashboard.
+Click on the wrench icon,  Secrets and enter a key and value for **cloud\_name**, **api\_key**, and **api\_secret**.** **These should match the values found in your Cloudinary dashboard.
 
 Now, let's move the code example into a new webtask, replace the hello world example with this code:
 
@@ -103,14 +103,14 @@ auto_tagging: 0.6 };
 }
 
 module.exports = function(context, cb) {
-  
-   cloudinary.config({
-      "cloud_name":  context.secrets.cloud_name,
-      "api_key": context.secrets.api_key,
-      "api_secret":  context.secrets.api_secret
-    });
-    
-    labelImage(context, cb);
+
+  cloudinary.config({
+    "cloud_name":  context.secrets.cloud_name,
+    "api_key": context.secrets.api_key,
+    "api_secret":  context.secrets.api_secret
+  });
+
+  labelImage(context, cb);
 };
 ```
 {% endcode-tabs-item %}
@@ -123,7 +123,7 @@ module.exports = function(context, cb) {
 {% page-ref page="json-results.md" %}
 
 {% hint style="info" %}
-The context object maps the query parameter **url **to the context object which we then set the public\_id variable.
+The context object maps the query parameter **url **to the context object, which we then set the public\_id variable.
 
 **Usage Example:  **  
 https://evangelism.cloudinary.auth0-extend.com/auto-tag-example?url=&lt;url of photo&gt;
