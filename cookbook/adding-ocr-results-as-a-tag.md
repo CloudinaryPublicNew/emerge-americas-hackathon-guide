@@ -2,7 +2,7 @@
 description: By Josh Slivken - Cloudinary Solutions Engineer
 ---
 
-# Adding OCR Results as a Tag
+# Tag with OCR Results
 
 
 
@@ -12,19 +12,19 @@ Cloudinary ocr add-on allows you to easily capture text found in images.   This 
 
 ```javascript
 
-var url = "“https://res.cloudinary.com/demo-robert/image/upload/v1523390181/ec18d5b63b46a112b486a97a9d8885d7.jpg";
-var options = {ocr: “adv_ocr” };
-cloudinary.v2.uploader.upload(url,options, function(error,result){
-     console.log(result);
-     var ocrResult = result.info.ocr.adv_ocr.data[0].fullTextAnnotation.text || 0,
-       publicId = result.public_id;
-         if (ocrResult != 0){
-             cloudinary.v2.uploader.add_tag(ocrResult, publicId,
-             function(result) {
-             console.log(result)
-             });
-           };
-   });
+var url = "https://res.cloudinary.com/demo-robert/image/upload/v1523390181/ec18d5b63b46a112b486a97a9d8885d7.jpg";
+var options = {ocr: “adv_ocr”};
+cloudinary.v2.uploader.upload(url,options, function(error,result) {
+  console.log(result);
+  var ocrResult = result.info.ocr.adv_ocr.data[0].fullTextAnnotation.text || 0,
+  publicId = result.public_id;
+  if (ocrResult != 0) {
+    cloudinary.v2.uploader.add_tag(ocrResult, publicId,
+      function(result) {
+        console.log(result)
+    });
+  };
+});
 ```
 
 {% hint style="success" %}
