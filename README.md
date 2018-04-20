@@ -4,9 +4,19 @@ description: Emerge Americas Hackathon Guide
 
 # eMerge Americas Hackathon Guide
 
+## CHALLENGE AND PRIZES
 
+Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 
-![](.gitbook/assets/emergeamericas2018-cover%20%281%29.png)
+**Prizes:**
+
+* **$1000 in CASH** plus 1-year [Cloudinary Plus plan](https://cloudinary.com/pricing) \($1068 value\) award to the hack team chosen as _most creative use of Cloudinary API_.
+* 1-year [Cloudinary Plus plan](https://cloudinary.com/pricing) \($1068 value\) award to the hack team chosen as _best implementation using the Cloudinary API_.
+* The most creative hack projects \(that make use of Cloudinary API\) will be featured on our Blog
+
+  ![](.gitbook/assets/emergeamericas2018-cover%20%281%29.png)
+
+{% page-ref page="thought-starters/" %}
 
 ## EXPERIENCE THE RUSH
 
@@ -19,18 +29,6 @@ This mind-stimulating, adrenaline-fueled event attracted over 170+ coders last y
 {% hint style="info" %}
 TIP: Register Early
 {% endhint %}
-
-## CHALLENGE AND PRIZES
-
-Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
-
-**Prizes:**
-
-* **$1000 in CASH** plus 1-year [Cloudinary Plus plan](https://cloudinary.com/pricing) \($1068 value\) award to the hack team chosen as _most creative use of Cloudinary API_.
-* 1-year [Cloudinary Plus plan](https://cloudinary.com/pricing) \($1068 value\) award to the hack team chosen as _best implementation using the Cloudinary API_.
-* The most creative hack projects \(that make use of Cloudinary API\) will be featured on our Blog
-
-{% page-ref page="thought-starters/" %}
 
 ## WHAT YOU NEED TO KNOW
 
