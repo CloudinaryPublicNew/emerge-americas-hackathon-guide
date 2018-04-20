@@ -14,9 +14,9 @@ Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 * 1-year [Cloudinary Plus plan](https://cloudinary.com/pricing) \($1068 value\) award to the hack team chosen as _best implementation using the Cloudinary API_.
 * The most creative hack projects \(that make use of Cloudinary API\) will be featured on our Blog
 
-  ![](.gitbook/assets/emergeamericas2018-cover%20%281%29.png)
-
 {% page-ref page="thought-starters/" %}
+
+![](.gitbook/assets/emergeamericas2018-cover%20%281%29.png)
 
 ## EXPERIENCE THE RUSH
 
