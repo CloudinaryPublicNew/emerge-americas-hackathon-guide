@@ -43,8 +43,12 @@ Hacking starts 10am Saturday and ends 10am Sunday
 
 **WHERE:**
 
-Miami Dade College, Wolfson Campus  
-300 NE Second Ave., Miami, FL 33132
+Chapman Conference Center   
+Miami Dade College Wolfson Campus  
+245 NE 4th Street Floor 2 Room 3210  
+ Miami, FL 33132
+
+
 
 
 
